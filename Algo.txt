@@ -1,0 +1,18 @@
+ALGORITHM:
+
+STEP1: After opening the html file you will be able to see a webpage with a heading E-VOTING
+SYSTEM
+
+STEP2: First you will be asked to enter your name and father name
+
+STEP3: Upon clicking on the input field of the date, calendar will appear and you need to select
+current date from it.
+
+STEP4: Next you have to select your gender from options available and multiple options cannot
+be selected.
+
+STEP5: Later on you should fill the field voter id and choose a political party for which you want
+to vote.
+
+STEP6: And you have to click submit button to submit your vote upon submission you will be
+directed to a thank you page
