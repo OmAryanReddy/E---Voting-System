@@ -1,0 +1,127 @@
+ABSTRACT
+The word "vote" means to choose from a list, to elect or to determine. The main goal of voting
+(in a scenario involving the citizens of a given country) is to come
+up with leaders of the people's choice.
+Most countries, India not an exception, have problems when it comes to voting. Some of the
+problems involved include ridging votes during election, insecure or inaccessible polling
+stations, inadequate polling materials and also inexperienced personnel.
+This online voting/polling system seeks to address the above issues. It should be noted that with
+this system in place, the users, citizens in this case shall be given ample time during the voting
+period. They shall also be trained on how to vote online before the election time.
+INTRODUCTION TO ONLINE VOTING SYSTEM:
+"ONLINE VOTING SYSTEM" is an online voting technique. In this system people who have
+citizenship of India and whose age is above 18 years of age and any sex can give his her vote
+online without going to any physical polling station.
+There is a database which is maintained in which all the names of voters with complete
+information is stored.
+In "ONLINE VOTING SYSTEM" a voter can use his or her voting right online without any
+difficulty. He\She has to be registered first for him/her to vote. Registration is mainly done by the
+system administrator for security reasons. The system Administrator registers the voters on a
+special site of the system visited by him only by simply filling a registration form to register
+voters. Citizens seeking registration are expected to contact the system administrator to submit
+their details. After the validity of them being citizens of India has been confirmed by the system
+administrator by comparing their details submitted with those in existing databases such as
+those as the Registrar of Persons, the citizen is then registered as a voter.
+After registration, the voter is assigned a secret Voter ID with which he/she can use to log into
+the system and enjoy services provided by the system such as voting. If invalid/wrong details
+are submitted, then the citizen is not registered to vote.
+BACKGROUND OF STUDY
+The Online voting system (OVS) also known as e-voting is a term encompassing several
+different types of voting embracing both electronic means of counting votes. Electronic voting
+technology can include punched cards, optical scan voting systems and specialized voting
+kiosks (including self contained direct recording electronic voting systems or DRE). It can also
+involve transmission of ballots and votes via telephones, private computer networks, or the
+internet.
+Online voting is an electronic way of choosing leaders via a web driven application. The
+advantage of online voting over the common "queue method" is that the voters have the choice
+of voting at their own free time and there is reduced congestion. It also minimizes errors of vote
+counting. The individual votes are submitted in a database which can be queried to find out who
+of the aspirants for a given post has the highest number of votes.
+This system is geared towards increasing the voting percentage in India since it has been
+noted that with the old voting method (the Queue System), the voter turnout has been a wanting
+case. With the system in place also, if high security is applied, cases of false votes shall be
+reduced.
+With the "ONLINE VOTING SYSTEM", a voter can use his or her voting right online without any
+difficulty. He\She has to register as a voter first before being authorized to vote. The registration
+should be done prior to the voting date to enable data update in the database.
+However, not just anybody can vote. For one to participate in the elections, he/she must have
+the requirements. For instance, he/she must be a registered citizen i.e. must be 18 and above
+years old. As already stated, the project 'Online Voting provides means for fast and convenient
+voting and access to this system is limited only to registered voters.
+Internet voting systems are appealing for several reasons which include; People are getting
+more used to work with computers to do all sorts of things, namely sensitive operations such as
+shopping and home banking and they allow people to vote far from where they usually live,
+helping to reduce absenteeism rate.
+SIGNIFICANCE OF STUDY:
+The main purposes of OVS include:
+● Provision of improved voting services to the voters through fast, timely and convenient
+voting.
+● Reduction of the costs incurred by the Indian Electoral Commission during voting time
+in paying the very many clerks employed for the sake of the success of the manual
+system.
+● Check to ensure that the members who are registered are the only ones to vote. Cases
+of "Dead People" voting are also minimized.
+● Online voting system (OVS) will require being very precise or cost cutting to produce an
+effective election management system.
+● Therefore crucial points that this (OVS) emphasizes on are listed below.
+1. Require less number of staff during the election. This system is a lot easier to
+independently moderate the elections and subsequently reinforce its transparency and
+fairness.
+2.Less capital, less effort, and less labor intensive, as the primary cost and effort will focus
+primarily on creating, managing, and running a secure online portal.
+3.Increased number of voters as individuals will find it easier and more convenient to vote,
+especially those abroad.
+Objectives Of The PROJECT:
+The specific objectives of the project include:
+● Reviewing the existing/current voting process or approach in India;
+● Coming up with an automated voting system in India;
+● implementing a an automated/online voting system;
+● Validating the system to ensure that only eligible voters are allowed to vote.
+Project justification:
+The ONLINE VOTING SYSTEM-INDIA shall reduce the time spent making long queues at the
+polling stations during voting. It shall also enable the voters to vote from any part of the globe as
+explained since this is an online application available on the internet. Cases of vote miscounts
+shall also be solved since at the backend of this system resides a well developed database
+using MYSQL that can provide the correct data once it's correctly queried. Since the voting
+process shall be open as early as possible, the voters shall have ample time to decide when
+and whom to vote for.
+SCOPE OF STUDY:
+It is focused on studying the existing system of voting in India and to make sure that the
+people's vote is counted, for fairness in the elective positions. This is also will produce:
+• Less effort and less labor intensive, as the primary cost and focus primary on creating,
+managing, and running a secure web voting portal.
+• Increasing number of voters as individuals will find it easier and more
+convenient to vote, especially those abroad.
+Requirements:
+1) Registration of the voter is done by ELECTION COMMISION OF INDIA.
+2) ELECTION COMMISION OF INDIA can change the information any time
+if required.
+3) Registration of the Voter depends upon the information filled by the
+user.
+4) Voter is given a unique ID and PASSWORD.
+5) In the DATABASE information of every voter is stored.
+6) Database shows the information to every user.
+Problems with the Existing Voter Registration System
+The problems of the existing manual system of voting include among others the
+following:
+1. Expensive and Time consuming: The process of collecting data and entering this data into the
+database takes too much time and is expensive to conduct, for example, time and money is
+spent in printing data capture forms, in preparing registration stations together with human
+resources, and there after advertising the days set for registration process including sensitizing
+voters on the need for registration, as well as time spent on entering this data to the database.
+2. Too much paperwork: The process involves too much paperwork and paper storage which is
+difficult as papers become bulky with the population size.
+3. Errors during data entry: Errors are part of all human beings; it is very unlikely for humans to
+be 100 percent efficient in data entry.
+CONCLUSION:
+This Online Voting system will manage the Voter's information by which a voter can login and
+use his voting rights. The system will incorporate all features of the Voting system. It provides
+the tools for maintaining voter's vote to every party and it counts the total no. of votes of every
+party. There is a DATABASE which is maintained by the ELECTION COMMISION OF INDIA in
+which all the names of voters with complete information is stored.
+In this user who is above 18 year's register his/her information on the database and when
+he/she wants to vote he/she has to login by his id and password and can vote to any party only
+a single time. Voting detail is stored in the database and the result is displayed by calculation.
+By online voting system the percentage of voting is increased. It decreases the cost and time of
+the voting process. It is very easy to use and it is very less time consuming. It is very easy to
+debug
